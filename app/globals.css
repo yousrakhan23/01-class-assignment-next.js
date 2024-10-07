@@ -1,4 +1,16 @@
-:root {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .navbar{
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  align-items: center;
+  background-color: rebeccapurple;
+} */
+
+/* :root {
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -39,4 +51,4 @@ a {
   html {
     color-scheme: dark;
   }
-}
+} */

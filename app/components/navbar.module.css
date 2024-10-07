@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+
+    justify-content: center;
+    background-color: rebeccapurple;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 2px;
+   
+}
+.navbar ul {
+    list-style: none;
+    padding: 3px;
+    margin: 9px;
+    display: flex;
+    gap: 100px;
+
+} 
+.navbar ul li {
+    margin: 20px 10;
+} 
+.navbar ul li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.navbar ul li a:hover{
+    text-decoration: line-through;
+}
+
+
+
+
+
