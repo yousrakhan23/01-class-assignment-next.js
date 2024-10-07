@@ -1,6 +1,6 @@
 import Navbar from "../../components/navbar";
 
-const WebDevPage = () => {
+const WebdevPage = () => {
   return (
     <div>
       <Navbar />
@@ -10,4 +10,4 @@ const WebDevPage = () => {
   );
 }
 
-export default WebDevPage;
+export default WebdevPage;
